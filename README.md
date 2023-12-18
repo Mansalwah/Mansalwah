@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web development, react native**
 
-- 📫 How to reach me **mansalwah1@Gmail.com**
+- 📫 How to reach me **mansalwah1@gmail.com**
 
 - ⚡ Fun fact **I work overtime**
 
